@@ -24,7 +24,7 @@ Fica à vontade caso queira contribuir com algo.
 
 ## Versioning
 
-Versão beta, e continurá assim até o fim. 
+Versão beta, e continuará assim até o fim. 
 
 ## Authors
 
@@ -32,7 +32,7 @@ Versão beta, e continurá assim até o fim.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
 
 ## Acknowledgments
 
